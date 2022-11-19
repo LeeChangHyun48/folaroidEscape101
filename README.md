@@ -84,7 +84,7 @@
 
 
 
-## :fire: 음성처리(TTS, ATT)
+## :fire: 음성처리(TTS, TT)
 
 ![image](https://user-images.githubusercontent.com/116571873/202859083-0e60013f-2b9f-47c2-9912-67ee187ab1f4.png)
 

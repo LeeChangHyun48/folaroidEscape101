@@ -1,5 +1,7 @@
 # :fire_engine: 위기탈출 1.0.1 :fire_engine: 
 
+![위기탈출](README.assets/위기탈출.png)
+
 ![image](https://user-images.githubusercontent.com/116571873/202858171-5bbdee55-9b67-42d5-b111-879f4cccb5d9.png)
 
 ## :fire: 위기탈출 1.0.1 소개
